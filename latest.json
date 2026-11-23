@@ -1,0 +1,14 @@
+{
+  "version": "0.15.1",
+  "tag": "v0.15.1",
+  "component": "xboard-node-nowhere-extension",
+  "platform": "linux-amd64",
+  "file": "packages/node-nowhere/0.15.1/xboard-node-nowhere-extension-0.15.1.tar.gz",
+  "sha256": "dc7f0c457ee22e6c8786ab505e37c97d595bac6a98a09ef637c5c623761545ee",
+  "url": "https://raw.githubusercontent.com/xsllqs/xboard-nowhere-extension/refs/tags/v0.15.1/packages/node-nowhere/0.15.1/xboard-node-nowhere-extension-0.15.1.tar.gz",
+  "xboard_node": {
+    "version": "0a29338e-go1.26.11",
+    "file": "packages/xboard-node/0a29338e-go1.26.11/xboard-node-0a29338e-go1.26.11-linux-amd64.tar.gz",
+    "sha256": "802daf4560ccd67937ea15b3a2af038a8e29a40e41ccf78b02457b8bf4af0efe"
+  }
+}
